@@ -1,0 +1,14 @@
+layout_spectrum: 0.9167562
+typography_spectrum: 0.07280107
+color:
+  saturation: 0.6938463
+  lightness: 0.5021482
+  brandStrength: 0.5429646
+  brandColors:
+    - '#FFFFFF'
+    - '#383838'
+    - '#E0E0E0'
+    - '#6E6E6E'
+    - '#B4B4B4'
+  rhythmicContrast: 0.6342642
+name: YourFieldForce
